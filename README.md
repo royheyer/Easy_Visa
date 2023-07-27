@@ -5,5 +5,5 @@ Decision Tree Model
 Bagging Classifier Model
 AdaBoost Classifier
 Gradient Boosting Classifier
-XG Boost Classifier
-Hyperparameter tuning
+XGBoost Classifier
+Hyperparameter Tuning
